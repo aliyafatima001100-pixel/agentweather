@@ -1,0 +1,16 @@
+pandas
+numpy
+requests
+python-dotenv
+scikit-learn
+hopsworks
+statsmodels
+prophet
+shap
+lime
+langgraph
+groq
+streamlit
+plotly
+matplotlib
+seaborn
